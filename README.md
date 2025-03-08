@@ -133,7 +133,8 @@ relevant information related to the platform.
 Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
 platform:
 
-![Architecture](images/architecture.png)
+![image](https://github.com/user-attachments/assets/a738fd5e-1218-4c36-a633-90b2d5a2b352)
+
 
 <hr>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -245,7 +246,8 @@ for an ed-tech platform, with a focus on security, reliability, and ease of use.
 right frameworks, libraries, and tools, we can ensure that the platform functions smoothly
 and provides an optimal user experience for all its users.
 
-![Database Schema](images/schema.png)
+![image](https://github.com/user-attachments/assets/a82cb1ba-0de3-4013-be49-b4b26159f4ea)
+
 
 <hr>
 <p align="right">(<a href="#top">back to top</a>)</p>
